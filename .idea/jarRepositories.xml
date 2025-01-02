@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="RemoteRepositoriesConfiguration">
+    <remote-repository>
+      <option name="id" value="maven-jcenter-bintray-cache" />
+      <option name="name" value="maven-jcenter-bintray-cache" />
+      <option name="url" value="https://centralrepo.apps.a3.cp.cna.at/artifactory/list/maven-jcenter-bintray-cache" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="brz-autotests-maven" />
+      <option name="name" value="Artifactory-releases" />
+      <option name="url" value="https://centralrepo.apps.a3.cp.cna.at/artifactory/brz-base-autotests-maven-release" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="brz-base-autotests-maven-snapshot" />
+      <option name="name" value="brz-base-autotests-maven-snapshot" />
+      <option name="url" value="https://centralrepo.apps.a3.cp.cna.at/artifactory/list/brz-base-autotests-maven-snapshot" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="brz-public" />
+      <option name="name" value="brz-public" />
+      <option name="url" value="https://centralrepo.apps.a3.cp.cna.at/artifactory/list/brz-mirror-maven" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="central" />
+      <option name="name" value="Central Repository" />
+      <option name="url" value="https://repo.maven.apache.org/maven2" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="brz-finanzanwendungen-maven-release" />
+      <option name="name" value="brz-finanzanwendungen-maven-release" />
+      <option name="url" value="https://centralrepo.apps.a3.cp.cna.at/artifactory/list/brz-finanzanwendungen-maven-release" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="brz-zoll-kontrollsysteme-maven-snapshot" />
+      <option name="name" value="Artifactory-snapshots" />
+      <option name="url" value="https://centralrepo.apps.a3.cp.cna.at/artifactory/brz-zoll-kontrollsysteme-maven-snapshot" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="brz-tobtt-maven-release" />
+      <option name="name" value="brz-tobtt-maven-release" />
+      <option name="url" value="https://centralrepo.apps.a3.cp.cna.at/artifactory/brz-tobtt-maven-release" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="brz-camunda" />
+      <option name="name" value="brz-camunda" />
+      <option name="url" value="https://centralrepo.apps.a3.cp.cna.at/artifactory/list/maven-camunda-bpm-nexus" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="brz-tobtt-maven-snapshot" />
+      <option name="name" value="brz-tobtt-maven-snapshot" />
+      <option name="url" value="https://centralrepo.apps.a3.cp.cna.at/artifactory/brz-tobtt-maven-snapshot" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="brz.ezoll.snapshot" />
+      <option name="name" value="brz.ezoll.snapshot" />
+      <option name="url" value="https://centralrepo.apps.a3.cp.cna.at/artifactory/brz-ezoll-maven-snapshot" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="central" />
+      <option name="name" value="Maven Central repository" />
+      <option name="url" value="https://repo1.maven.org/maven2" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="brz-zoll-und-verbrauchsteuersysteme-maven-public" />
+      <option name="name" value="brz-zoll-und-verbrauchsteuersysteme-maven-public" />
+      <option name="url" value="https://centralrepo.apps.a3.cp.cna.at/artifactory/brz-zoll-und-verbrauchsteuersysteme-maven-public" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="brz-common-libs-maven" />
+      <option name="name" value="Artifactory-releases" />
+      <option name="url" value="https://centralrepo.apps.a3.cp.cna.at/artifactory/brz-common-libs-maven" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="brz-zoll-kontrollsysteme-maven-public" />
+      <option name="name" value="brz-zoll-kontrollsysteme-maven-public" />
+      <option name="url" value="https://centralrepo.apps.a3.cp.cna.at/artifactory/list/brz-zoll-kontrollsysteme-maven-public" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="finanzanwendungen-releases" />
+      <option name="name" value="finanzanwendungen-releases" />
+      <option name="url" value="https://centralrepo.apps.a3.cp.cna.at/artifactory/list/brz-finanzanwendungen-maven-release" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="finanzanwendungen-snapshots" />
+      <option name="name" value="finanzanwendungen-snapshots" />
+      <option name="url" value="https://centralrepo.apps.a3.cp.cna.at/artifactory/list/brz-finanzanwendungen-maven-snapshot" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="brz-mirror-maven" />
+      <option name="name" value="brz-mirror-maven" />
+      <option name="url" value="https://centralrepo.apps.a3.cp.cna.at/artifactory/list/brz-mirror-maven" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="brz-zoll-kontrollsysteme-maven-release" />
+      <option name="name" value="Artifactory-releases" />
+      <option name="url" value="https://centralrepo.apps.a3.cp.cna.at/artifactory/brz-zoll-kontrollsysteme-maven-release" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="brz.ezoll.release" />
+      <option name="name" value="brz.ezoll.release" />
+      <option name="url" value="https://centralrepo.apps.a3.cp.cna.at/artifactory/brz-ezoll-maven-release" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="jboss.community" />
+      <option name="name" value="JBoss Community repository" />
+      <option name="url" value="https://repository.jboss.org/nexus/content/repositories/public/" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="maven-central-mirror-cache" />
+      <option name="name" value="maven-central-mirror-cache" />
+      <option name="url" value="https://centralrepo.apps.a3.cp.cna.at/artifactory/maven-central-mirror-cache" />
+    </remote-repository>
+  </component>
+</project>
